@@ -3,6 +3,10 @@
   "description": "Minimal Nuxt boilerplate",
   "version": "0.1.1",
   "author": "Pascal Martineau <pascal@lewebsimple.ca>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lewebsimple/nuxt-minimal.git"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
