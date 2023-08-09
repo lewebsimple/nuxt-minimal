@@ -18,7 +18,7 @@
     "@lewebsimple/eslint-config": "^0.7.9",
     "@lewebsimple/stylelint-config": "^0.7.9",
     "@nuxt/devtools": "latest",
-    "@types/node": "^20.4.5",
+    "@types/node": "^20.4.9",
     "changelogen": "^0.5.4",
     "eslint": "^8.46.0",
     "husky": "^8.0.3",
