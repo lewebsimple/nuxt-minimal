@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.1.3
+
+[compare changes](https://github.com/lewebsimple/nuxt-minimal/compare/v0.1.2...v0.1.3)
+
+### 🏡 Chore
+
+- Update dependencies ([f94ddbf](https://github.com/lewebsimple/nuxt-minimal/commit/f94ddbf))
+- Update dependencies ([1c2cb15](https://github.com/lewebsimple/nuxt-minimal/commit/1c2cb15))
+
+### ❤️ Contributors
+
+- Pascal Martineau <pascal@lewebsimple.ca>
+
 ## v0.1.2
 
 [compare changes](https://github.com/lewebsimple/nuxt-minimal/compare/v0.1.1...v0.1.2)
