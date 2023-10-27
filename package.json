@@ -25,7 +25,7 @@
     "nano-staged": "^0.8.0",
     "nuxt": "^3.8.0",
     "stylelint": "^15.11.0",
-    "vue-tsc": "^1.8.21"
+    "vue-tsc": "^1.8.22"
   },
   "eslintConfig": {
     "extends": "@lewebsimple/eslint-config"
