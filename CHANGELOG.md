@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.1.5
+
+[compare changes](https://github.com/lewebsimple/nuxt-minimal/compare/v0.1.4...v0.1.5)
+
+### 🏡 Chore
+
+- Update deps and set TS version ([32fffd1](https://github.com/lewebsimple/nuxt-minimal/commit/32fffd1))
+
+### ❤️ Contributors
+
+- Pascal Martineau <pascal@lewebsimple.ca>
+
 ## v0.1.4
 
 [compare changes](https://github.com/lewebsimple/nuxt-minimal/compare/v0.1.3...v0.1.4)
