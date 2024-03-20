@@ -24,8 +24,7 @@
     "husky": "^9.0.11",
     "nano-staged": "^0.8.0",
     "nuxt": "^3.11.0",
-    "stylelint": "^16.2.1",
-    "vue-tsc": "^2.0.6"
+    "stylelint": "^16.2.1"
   },
   "eslintConfig": {
     "extends": "@lewebsimple/eslint-config"
@@ -39,5 +38,6 @@
   },
   "dependencies": {
     "@lewebsimple/nuxt3-svg": "^0.2.2"
-  }
+  },
+  "packageManager": "pnpm@8.15.5"
 }
