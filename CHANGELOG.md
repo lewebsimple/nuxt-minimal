@@ -1,5 +1,33 @@
 # Changelog
 
+## v0.1.6
+
+[compare changes](https://github.com/lewebsimple/nuxt-minimal/compare/v0.1.5...v0.1.6)
+
+### 🚀 Enhancements
+
+- Root tsconfig.server.json ([a587ada](https://github.com/lewebsimple/nuxt-minimal/commit/a587ada))
+- Svg components support ([500e428](https://github.com/lewebsimple/nuxt-minimal/commit/500e428))
+
+### 🩹 Fixes
+
+- Tsconfig.server.json requires relative path ([2ed2eb0](https://github.com/lewebsimple/nuxt-minimal/commit/2ed2eb0))
+
+### 💅 Refactors
+
+- Initial app/ layer ([0e4f908](https://github.com/lewebsimple/nuxt-minimal/commit/0e4f908))
+- Move app to layers/app, remove SVG ([2a0f737](https://github.com/lewebsimple/nuxt-minimal/commit/2a0f737))
+
+### 🏡 Chore
+
+- Update deps ([cccfcb1](https://github.com/lewebsimple/nuxt-minimal/commit/cccfcb1))
+- Remove vue-tsc / disable typeCheck ([d833b5c](https://github.com/lewebsimple/nuxt-minimal/commit/d833b5c))
+- Update packages ([198fd20](https://github.com/lewebsimple/nuxt-minimal/commit/198fd20))
+
+### ❤️ Contributors
+
+- Pascal Martineau <pascal@lewebsimple.ca>
+
 ## v0.1.5
 
 [compare changes](https://github.com/lewebsimple/nuxt-minimal/compare/v0.1.4...v0.1.5)
